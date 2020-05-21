@@ -8,7 +8,9 @@ Results on Eduskunta-vkk test.csv below:
 To preproduce:
 Setup conda env from environment file (Windows packages included, For Linux you might need to remove some Win specifig packages)
 
-Download FinBERT model files from (http://dl.turkunlp.org/finbert/bert-base-finnish-cased-v1.zip) to {Main-drive}:/{User}/ktrain_data/multi_cased_L-12_H-768_A-12
+Download FinBERT model files from (http://dl.turkunlp.org/finbert/bert-base-finnish-cased-v1.zip) 
+to {Main-drive}:/{User}/ktrain_data/multi_cased_L-12_H-768_A-12
+
 For me the path is: C:\Users\Admin\ktrain_data\multi_cased_L-12_H-768_A-12
 Ktrain-library (Used in notebook)  will use this folder to look up model files
 
